@@ -48,6 +48,7 @@ My list of awesome articles, frameworks, libraries and software
 *Resources, articles, blog,... for go ecosystem*
 
 * [Go Architecture](https://hackernoon.com/golang-clean-archithecture-efd6d7c43047) - Trying Clean Architecture on Golang.
+* [Go Gitlab CI](https://about.gitlab.com/2017/11/27/go-tools-and-gitlab-how-to-do-continuous-integration-like-a-boss/) - How to do continuous integration like a boss.
 * [Go Docker image](https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/) - Building Minimal Docker Containers for Go Applications.
 * [Go TableDriven Test](https://github.com/golang/go/wiki/TableDrivenTests) - Testing go code with TableDriven Tests.
 * [Go Mock Test](http://callistaenterprise.se/blogg/teknik/2017/03/03/go-blog-series-part4/) - Testing and mocking with GoConvey.
