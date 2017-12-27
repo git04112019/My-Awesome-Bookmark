@@ -20,6 +20,8 @@ My list of awesome articles, frameworks, libraries and software
 
 * [Amazon Web Services](https://aws.amazon.com/) - Amazon Web Services (AWS) -  Cloud Computing Services.
 * [AWS Activate](https://aws.amazon.com/activate/) - AWS Activate for Startups.
+* [AWS Training](https://www.aws.training/Training) - AWS Training & Certification.
+
 
 ## AWS Resources
 
@@ -35,6 +37,7 @@ My list of awesome articles, frameworks, libraries and software
 *Resources, articles, blog,... for Google Cloud Platform ecosystem*
 
 * [Firebase Hosting Environments](https://firebase.googleblog.com/2016/07/deploy-to-multiple-environments-with.html) - Deploy to multiple environments with Firebase Hosting.
+* [GCP Training](https://thesaffageek.co.uk/gcp/google-certified-professional-cloud-architect/) - Google Certified Professional – Cloud Architect.
 
 ## Go
 
