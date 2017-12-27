@@ -27,6 +27,9 @@ My list of awesome articles, frameworks, libraries and software
 
 *Libraries and tools for Android ecosystem.*
 
+* [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android.
+
+
 ## Android Resources
 
 *Resources, articles, blog,... for Android ecosystem*
@@ -47,6 +50,9 @@ My list of awesome articles, frameworks, libraries and software
 
 *Libraries and tools for Google Cloud Platform ecosystem.*
 
+* [Google endpoints Proxy]https://github.com/cloudendpoints/esp) - Extensible Service Proxy.
+
+
 ## Google Cloud Platform Resources
 
 *Resources, articles, blog,... for Google Cloud Platform ecosystem*
@@ -58,7 +64,8 @@ My list of awesome articles, frameworks, libraries and software
 
 *Libraries and tools for Golang ecosystem.*
 
-* [golang](https://golang.org/) - Open source programming language.
+* [go](https://golang.org/) - Open source programming language.
+* [go progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progressbar for Golang applications.
 
 ## Go Resources
 
