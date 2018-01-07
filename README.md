@@ -6,6 +6,8 @@ My list of awesome articles, frameworks, libraries and software
 - [My-Awesome-Bookmark](#my-awesome-bookmark)
     - [Android](#android)
     - [Android Resources](#android-resources)
+    - [Angular](#angular)
+    - [Angular Resources](#angular-resources)
     - [AWS](#aws)
     - [AWS Resources](#aws-resources)
     - [Google Cloud Platform](#google-cloud-platform)
@@ -13,6 +15,7 @@ My list of awesome articles, frameworks, libraries and software
     - [Go](#go)
     - [Go Resources](#go-resources)
     - [gRPC](#grpc)
+    - [gRPC Resources](#grpc-resources)
     - [Ios](#ios)
     - [Ios Resources](#ios-resources)
     - [Kotlin](#kotlin)
@@ -34,6 +37,15 @@ My list of awesome articles, frameworks, libraries and software
 
 *Resources, articles, blog,... for Android ecosystem*
 
+## Angular
+
+*Libraries and tools for Angular ecosystem.*
+
+
+## Angular Resources
+
+*Resources, articles, blog,... for Angular ecosystem*
+
 ## AWS
 
 *Libraries and tools for Amazon Web Services ecosystem.*
@@ -50,7 +62,7 @@ My list of awesome articles, frameworks, libraries and software
 
 *Libraries and tools for Google Cloud Platform ecosystem.*
 
-* [Google endpoints Proxy]https://github.com/cloudendpoints/esp) - Extensible Service Proxy.
+* [Google endpoints Proxy](https://github.com/cloudendpoints/esp) - Extensible Service Proxy.
 
 
 ## Google Cloud Platform Resources
@@ -80,18 +92,23 @@ My list of awesome articles, frameworks, libraries and software
 
 ## gRPC 
 
-*Libraries and tools for gRPC ecosystem.*
+*Libraries and tools for gRPC/Protobuf ecosystem.*
 
-* [grpc](https://grpc.io/) - A high performance, open-source universal RPC framework.
-* [grpc Go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC.
-* [grpc Swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC.
+* [gRPC](https://grpc.io/) - A high performance, open-source universal RPC framework.
+* [gRPC Go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC.
+* [gRPC Swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC.
 * [openapi2proto](https://github.com/NYTimes/openapi2proto) - A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications.
-* [grpc Health Check](https://github.com/go-training/grpc-health-check) - How to write grpc health check interface.
+* [gRPC Health Check](https://github.com/go-training/grpc-health-check) - How to write grpc health check interface.
+
 * [Protocol Buffers](https://developers.google.com/protocol-buffers/) - Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data.
 * [Protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format.
 * [Protobuf Go](https://github.com/golang/protobuf) - Go support for Google's protocol buffers.
 * [Protobuf Swift](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift.
 * [Protobuf Doc Generator](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers.
+
+## gRPC Resources
+
+*Resources, articles, blog,... for gRPC/Protobuf ecosystem*
 
 ## Ios 
 
