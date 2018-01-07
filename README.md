@@ -31,7 +31,9 @@ My list of awesome articles, frameworks, libraries and software
 *Libraries and tools for Android ecosystem.*
 
 * [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android.
-
+* [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java.
+* [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) - An Android library for Bluetooth Low Energy (BLE) interactions backed with RxJava.
+* [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM.
 
 ## Android Resources
 
@@ -40,7 +42,6 @@ My list of awesome articles, frameworks, libraries and software
 ## Angular
 
 *Libraries and tools for Angular ecosystem.*
-
 
 ## Angular Resources
 
@@ -63,7 +64,6 @@ My list of awesome articles, frameworks, libraries and software
 *Libraries and tools for Google Cloud Platform ecosystem.*
 
 * [Google endpoints Proxy](https://github.com/cloudendpoints/esp) - Extensible Service Proxy.
-
 
 ## Google Cloud Platform Resources
 
@@ -130,6 +130,8 @@ My list of awesome articles, frameworks, libraries and software
 ## Kubernetes
 
 *Libraries and tools for Kubernetes ecosystem.*
+
+* [Kubernetes](https://kubernetes.io/) - Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
 
 ## Kubernetes Resources
 
