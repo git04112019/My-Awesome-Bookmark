@@ -96,10 +96,11 @@ My list of awesome articles, frameworks, libraries and software
 
 * [gRPC](https://grpc.io/) - A high performance, open-source universal RPC framework.
 * [gRPC Go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC.
+* [gRPC Java](https://github.com/grpc/grpc-java) - The Java language implementation of gRPC.
 * [gRPC Swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC.
 * [openapi2proto](https://github.com/NYTimes/openapi2proto) - A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications.
 * [gRPC Health Check](https://github.com/go-training/grpc-health-check) - How to write grpc health check interface.
-
+* [gRPC Web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
 * [Protocol Buffers](https://developers.google.com/protocol-buffers/) - Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data.
 * [Protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format.
 * [Protobuf Go](https://github.com/golang/protobuf) - Go support for Google's protocol buffers.
