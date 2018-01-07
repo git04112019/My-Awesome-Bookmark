@@ -30,14 +30,19 @@ My list of awesome articles, frameworks, libraries and software
 
 *Libraries and tools for Android ecosystem.*
 
+* [dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 * [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android.
 * [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java.
 * [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) - An Android library for Bluetooth Low Energy (BLE) interactions backed with RxJava.
-* [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM.
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Reactive Extensions for Android.
 
 ## Android Resources
 
 *Resources, articles, blog,... for Android ecosystem*
+
+* [Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html) - A collection of libraries that help you design robust, testable, and maintainable apps.
+* [Kotlin Architecture Components](https://github.com/erikcaffrey/Android-Architecture-Components-Kotlin) - Sample used to practice Kotlin and Android Architecture Components.
+
 
 ## Angular
 
@@ -77,7 +82,13 @@ My list of awesome articles, frameworks, libraries and software
 *Libraries and tools for Golang ecosystem.*
 
 * [go](https://golang.org/) - Open source programming language.
-* [go progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progressbar for Golang applications.
+* [firebase sdk](https://github.com/firebase/firebase-admin-go/) - Firebase Admin Go SDK.
+* [progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progressbar for Golang applications.
+* [google API client](https://github.com/google/google-api-go-client) - Auto-generated Google APIs for Go.
+* [gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go.
+* [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data.
+
+
 
 ## Go Resources
 
@@ -122,6 +133,8 @@ My list of awesome articles, frameworks, libraries and software
 ## Kotlin 
 
 *Libraries and tools for Kotlin ecosystem.*
+
+* [Kotlin](https://kotlinlang.org/) - Statically typed programming language for modern multiplatform applications.
 
 ## Kotlin Resources
 
