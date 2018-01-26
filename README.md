@@ -100,6 +100,8 @@ My list of awesome articles, frameworks, libraries and software
 * [Go TableDriven Test](https://github.com/golang/go/wiki/TableDrivenTests) - Testing go code with TableDriven Tests.
 * [Go SubTest](https://blog.golang.org/subtests) - Using Subtests and Sub-benchmarks.
 * [Go Mock Test](http://callistaenterprise.se/blogg/teknik/2017/03/03/go-blog-series-part4/) - Testing and mocking with GoConvey.
+* [Google Cloud Iterator Guidelines](https://gist.github.com/tcnksm/eb78363fda067fdccd06ee8e7455b38b) - Google Cloud Client Libraries Iterator Guidelines.
+
 
 ## gRPC 
 
@@ -121,6 +123,10 @@ My list of awesome articles, frameworks, libraries and software
 ## gRPC Resources
 
 *Resources, articles, blog,... for gRPC/Protobuf ecosystem*
+
+* [Google RPC Naming Conventions](https://cloud.google.com/apis/design/naming_convention) - Google API Design Guide.
+* [gRPC Best Practice](https://gist.github.com/tcnksm/eb78363fda067fdccd06ee8e7455b38b) - gRPC Best Practice @ CoreOSFest 2017.
+
 
 ## Ios 
 
