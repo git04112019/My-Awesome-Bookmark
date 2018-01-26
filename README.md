@@ -23,8 +23,7 @@ My list of awesome articles, frameworks, libraries and software
     - [Kubernetes](#kubernetes)
     - [Kubernetes Resources](#kubernetes-resources)
     - [Swift](#swift)
-    - [Swift Resources](#swift-resources)
-    
+    - [Swift Resources](#swift-resources)    
 
 ## Android
 
@@ -42,7 +41,7 @@ My list of awesome articles, frameworks, libraries and software
 
 * [Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html) - A collection of libraries that help you design robust, testable, and maintainable apps.
 * [Kotlin Architecture Components](https://github.com/erikcaffrey/Android-Architecture-Components-Kotlin) - Sample used to practice Kotlin and Android Architecture Components.
-
+* [Testing UI for Multiple Apps](https://developer.android.com/training/testing/ui-testing/uiautomator-testing.html#setup) - Testing Apps on Android with Automating UI Tests.
 
 ## Angular
 
@@ -82,13 +81,13 @@ My list of awesome articles, frameworks, libraries and software
 *Libraries and tools for Golang ecosystem.*
 
 * [go](https://golang.org/) - Open source programming language.
+* [agouti](https://github.com/sclevine/agouti) - A WebDriver client and acceptance testing library for Go.
 * [firebase sdk](https://github.com/firebase/firebase-admin-go/) - Firebase Admin Go SDK.
 * [progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progressbar for Golang applications.
+* [ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go.
 * [google API client](https://github.com/google/google-api-go-client) - Auto-generated Google APIs for Go.
 * [gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go.
 * [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data.
-
-
 
 ## Go Resources
 
@@ -101,7 +100,6 @@ My list of awesome articles, frameworks, libraries and software
 * [Go SubTest](https://blog.golang.org/subtests) - Using Subtests and Sub-benchmarks.
 * [Go Mock Test](http://callistaenterprise.se/blogg/teknik/2017/03/03/go-blog-series-part4/) - Testing and mocking with GoConvey.
 * [Google Cloud Iterator Guidelines](https://gist.github.com/tcnksm/eb78363fda067fdccd06ee8e7455b38b) - Google Cloud Client Libraries Iterator Guidelines.
-
 
 ## gRPC 
 
@@ -126,7 +124,7 @@ My list of awesome articles, frameworks, libraries and software
 
 * [Google RPC Naming Conventions](https://cloud.google.com/apis/design/naming_convention) - Google API Design Guide.
 * [gRPC Best Practice](https://gist.github.com/tcnksm/eb78363fda067fdccd06ee8e7455b38b) - gRPC Best Practice @ CoreOSFest 2017.
-
+* [Mocking Service for gRPC](https://github.com/grpc/grpc-go/blob/master/Documentation/gomock-example.md) - Mocking Service for gRPC with GoMock.
 
 ## Ios 
 
