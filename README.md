@@ -10,6 +10,8 @@ My list of awesome articles, frameworks, libraries and software
     - [Angular Resources](#angular-resources)
     - [AWS](#aws)
     - [AWS Resources](#aws-resources)
+    - [Docker](#docker)
+    - [Docker Resources](#docker-resources)
     - [Google Cloud Platform](#google-cloud-platform)
     - [Google Cloud Platform Resources](#google-cloud-platform-resources)
     - [Go](#go)
@@ -22,6 +24,8 @@ My list of awesome articles, frameworks, libraries and software
     - [Kotlin Resources](#kotlin-resources)
     - [Kubernetes](#kubernetes)
     - [Kubernetes Resources](#kubernetes-resources)
+    - [Nginx](#nginx)
+    - [Nginx Resources](#nginx-resources)
     - [Swift](#swift)
     - [Swift Resources](#swift-resources)    
 
@@ -62,6 +66,14 @@ My list of awesome articles, frameworks, libraries and software
 ## AWS Resources
 
 *Resources, articles, blog,... for AWS ecosystem*
+
+## Docker
+
+*Libraries and tools for Docker ecosystem.*
+
+## Docker Resources
+
+*Resources, articles, blog,... for Docker ecosystem*
 
 ## Google Cloud Platform
 
@@ -131,6 +143,8 @@ My list of awesome articles, frameworks, libraries and software
 
 *Libraries and tools for Ios ecosystem.*
 
+* [EarlGrey](https://github.com/google/EarlGrey) - iOS UI Automation Test Framework.
+
 ## Ios Resources
 
 *Resources, articles, blog,... for Ios ecosystem*
@@ -154,6 +168,16 @@ My list of awesome articles, frameworks, libraries and software
 ## Kubernetes Resources
 
 *Resources, articles, blog,... for Kubernetes ecosystem*
+
+## Nginx
+
+*Libraries and tools for Nginx ecosystem.*
+
+## Nginx Resources
+
+*Resources, articles, blog,... for Nginx ecosystem*
+
+* [Nginx gzip mime type](https://support.cloudflare.com/hc/en-us/articles/200168396-What-will-CloudFlare-gzip-) - Cloudflare Nginx configuration for gzip  
 
 ## Swift
 
