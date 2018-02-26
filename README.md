@@ -113,6 +113,7 @@ My list of awesome articles, frameworks, libraries and software
 * [Go SubTest](https://blog.golang.org/subtests) - Using Subtests and Sub-benchmarks.
 * [Go Mock Test](http://callistaenterprise.se/blogg/teknik/2017/03/03/go-blog-series-part4/) - Testing and mocking with GoConvey.
 * [Go debug an integration test](https://medium.com/@cep21/using-go-1-10-new-trace-features-to-debug-an-integration-test-1dc39e4e812d) - Using Go 1.10 new trace features to debug an integration test.
+* [Go advances tests](https://segment.com/blog/5-advanced-testing-techniques-in-go/) - 5 Advanced Testing Techniques in Go.
 * [Google Cloud Iterator Guidelines](https://gist.github.com/tcnksm/eb78363fda067fdccd06ee8e7455b38b) - Google Cloud Client Libraries Iterator Guidelines.
 
 ## gRPC 
