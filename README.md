@@ -83,6 +83,7 @@ My list of awesome articles, frameworks, libraries and software
 * [Google Cloud SDK release notes](https://cloud.google.com/sdk/docs/release-notes) - Google Cloud SDK release notes.
 * [GKE release notes](https://cloud.google.com/kubernetes-engine/release-notes) - Kubernetes engine release notes.
 * [Firebase release notes](https://firebase.google.com/support/releases) - Firebase release notes.
+* [Stackdriver release notes](https://cloud.google.com/stackdriver/docs/release-notes) - Stackdriver release notes.
 
 
 ## Google Cloud Platform Resources
